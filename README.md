@@ -1,4 +1,4 @@
-**Analysis of the Academic Success dataset for Classification. **
+**Analysis of the Academic Success dataset for Classification.**
 This folder include:
 
 **1. EDA and Preprocessing**
